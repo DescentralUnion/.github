@@ -1,5 +1,28 @@
-## Hi there 👋
-Esta es una prueba
+# Hi, wellcome to our project "Descentral Union" from Platzi Ethereum Developer Program 👋
+
+### Team
+* **_Eduardo Nevado_**
+  - Github: https://github.com/40471
+
+* **_Ignacio Molina_**
+  - Email: ignacio.molina.portoles@gmail.com
+  - Github: https://github.com/IgnacioMolinaPortoles
+  - Linkedin: https://www.linkedin.com/in/ignacio-nicanor-sebastian-molina-portoles-a4b844173/
+
+* **_Afu Tse_**
+  - Email: solapa@gmail.com
+  - Github: https://github.com/r3xakead0
+  - Linkedin: https://www.linkedin.com/in/afutse/
+
+* **_Martin Gutierrez_**
+  - Github: https://github.com/0xiroh
+
+* **_Oscar Miranda_**
+  - Email: mgoscar@gmail.com
+  - Github: https://github.com/mgoscar2018
+  - Linkedin: www.linkedin.com/in/mgoscar
+
+
 <!--
 
 **Here are some ideas to get you started:**
